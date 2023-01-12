@@ -28,9 +28,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>Stage 1: Intake - Creating a Ticket</h3>
 
 
-- To act like an end user to create a ticket, click [here](http://localhost/osTicket/).
+- Open osTicket
 - Select Open a New Ticket
-  - Email Address: Karen@osticket.com
+  - Email Address: <a href='#' style='text-decoration: none; color:#000000'>karen@osTicket.com</a>
   - Name: Karen Karen
   - Help Topic Dropdown Menu: Business Critical Outage
     - Issue Summary: Entire mobile online banking is down
