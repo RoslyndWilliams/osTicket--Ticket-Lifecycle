@@ -30,8 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Open osTicket
 - Select Open a New Ticket
-  - Email Address: <a href='#' style='text-decoration: none; color:#000000'>karen@osTicket.com</a>
-  - Name: Karen Karen
+  - Email Address: <a href='#' style='text-decoration: none; color:#000000'>johnson@osTicket.com</a>
+  - Name: Keyana Johnson
   - Help Topic Dropdown Menu: Business Critical Outage
     - Issue Summary: Entire mobile online banking is down
     - Details: Customers are reporting they are getting a 404 error when browsing to online banking
@@ -44,7 +44,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>Step 2: Assignment and Communication</h3>
 
-- Sign into osTicket as an Agent
+- Sign in to osTicket as an Agent
   - We created jane.doe in previous tutorial, log in with those credentials. 
   - Select the ticket we created in Step 1.
   
@@ -71,7 +71,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>Stage 3: Working the Issue</h3>
 
-- On the back end, Jane is working with the System Adminstrator team to resolve the issue. 
+- On the back end, Jane is working with the Systems Administrative Team to resolve the issue. 
 
 
 <h3>Stage 4: Resolution</h3>
@@ -80,12 +80,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up. 
   - Ticket Status: Resolved
 - Select Post Reply
-- The ticket should now be on the "closed" tab since it has been resolved.
+- Since it has been resolved, the ticket should now be on the Closed tab.
 
 <p align="center">
 <img src="https://i.imgur.com/et8h651.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 
-🎉Congratulations! You have created and resolved your first ticket!🎉
+🎉Congratulations! You have created and resolved your first ticket! You have now completed the third and final part of this three-part osTicket Install/Configuration/Ticket-Creation series🎉
   
