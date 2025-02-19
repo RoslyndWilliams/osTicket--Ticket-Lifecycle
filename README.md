@@ -45,7 +45,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>Step 2: Assignment and Communication</h3>
 
 - Sign in to osTicket as an Agent
-  - We created jane.doe in previous tutorial, log in with those credentials. 
+  - We created jane.doe in the previous tutorial; log in with those credentials. 
   - Select the ticket we created in Step 1.
   
   
