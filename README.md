@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source helpdesk ticketing system osTicket.<br/>
+Part 3 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial series. Part 3 outlines the lifecycle of a ticket from intake to resolution within the open-source helpdesk ticketing system osTicket.<br/>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -87,5 +87,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 
-🎉Congratulations! You have created and resolved your first ticket! You have now completed the third and final part of this three-part osTicket Install/Configuration/Ticket-Creation series🎉
+🎉Congratulations! You have created and resolved your first ticket! You have completed the third and final part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.🎉
   
