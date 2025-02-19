@@ -29,7 +29,9 @@ Part 3 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 
 - Open osTicket
-	- If you need help configuring osTicket, please see my tutorial [here](https://github.com/RoslyndWilliams/osTicket--post-install-config)
+	- If you need help installing osTicket, please see Part 1 of this tutorial series [here](https://github.com/RoslyndWilliams/osTicket--Prerequisites-and-Installation)
+ 	- If you need help configuring osTicket, please see Part 2 of this tutorial series [here](https://github.com/RoslyndWilliams/osTicket--Post-Install-Configuration)
+
 - Select Open a New Ticket
   - Email Address: <a href='#' style='text-decoration: none; color:#000000'>johnson@osTicket.com</a>
   - Name: Keyana Johnson
